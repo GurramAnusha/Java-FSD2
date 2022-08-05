@@ -78,7 +78,7 @@ public class MovieTicketBooking {
 		        		   C.set(c,0);
 		        		   C.set(c,0);
 						}
-		        	   count=0;
+		        	   count=1;
 		           }
 		           
 		           bookingProcess();
@@ -98,7 +98,7 @@ public class MovieTicketBooking {
 		        		   C.set(c,0);
 		        		   C.set(c,0);
 						}
-		        	   count=0;
+		        	   count=1;
 		           }
 		           
 		           
